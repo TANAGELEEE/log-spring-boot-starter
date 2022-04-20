@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "log",
+      "type": "xyz.tanagelee.LogProperties",
+      "sourceType": "xyz.tanagelee.LogProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "log.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "xyz.tanagelee.LogProperties",
+      "defaultValue": false
+    }
+  ],
+  "hints": []
+}
